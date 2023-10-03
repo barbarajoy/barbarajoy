@@ -1,4 +1,4 @@
-<h1 align="left">Hey you 👋, I'm Bárbara</h1>
+<h1 align="left">Hey you! I'm Bárbara!</h1>
 <h3 align="left">A passionate web developer from Brazil living in France</h3>
 
 <h3 align="left">Languages and Tools:</h3>
